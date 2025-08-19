@@ -1,0 +1,44 @@
+img {
+	border-radius: 75px;
+}
+
+h1 {
+	font-size: 25px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 18px;
+	text-align: center;
+}
+
+p {
+	font-size: 10px;
+	text-align: center;	
+	font-family: "Consolas";
+}
+
+body {
+	background-color: slateblue;
+	font-family: "Consolas";
+	color: white;
+	text-align: center;
+}
+
+a {
+	background-color: white;
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 10px;
+	display: block;
+	text-align: center;
+	margin: 10px;
+	color: slateblue;
+	font-family: "Consolas";
+}
+
+button {
+	font-family: "Consolas";
+	padding: 10px;
+	font-size: 20px;
+}
